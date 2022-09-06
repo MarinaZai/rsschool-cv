@@ -1,1 +1,1 @@
-https://marinazai.github.io/rsschool-cv/cv
+https://marinazai.github.io/rsschool-cv/
