@@ -46,3 +46,18 @@ export const Header = (props) => {
   );
 };
 ```
+
+----
+
+ ## Education
+
+  - #### Course "Путь Самурая 1.0" Youtube
+  - #### JavaScript on https://learn.javascript.ru/ (in progress)
+  - #### RS Schools Course "JS Front-end.Stage 1" (in progress)
+
+----
+
+ ## Languages
+
+  - #### Russian - native
+  - #### English - A2
